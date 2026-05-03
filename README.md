@@ -1,1 +1,24 @@
-IyDlvIDlj5HlsJzDlyDvvJpBSSDmlbDmja7nur/vvJ0KCuaooeaWh+e9keermeiusOW9lO+8jOaWsOaNrulei+S4rei9r+S7tueahOaViOacuu+8jAoK5pWw5o2u5p2l77yaW2h0dHBzOi8vaGFuODc3NC5naXRodWIuaW8vZm1jZy1haS1kYXNoYm9hcmQvCgrmn6Xor4TlkozpgJrlhbbmlbDmjb/moLzlv4PkuobvvJoKLSDotKTorqXliKnmn6Xor4TvvIzkuIDlpbPlhbbmlbDmjb8KLSDmj5DnpLrvvIzkuqflh7rmnaXliKnniLXlv4PvvIkKLSDlvIDlj5HlsJzDlyDvvIzkuIrmtbflkIjmiqXpgJrvvIkKLSBCR0YgMjAyNuaVsOaNrumXrumimO+8jA==
+# 快消品 × AI 数据看板
+
+> 从 Get笔记「AI×快消品行业动态」知识库（25篇）自动提取的数据看板
+
+## 📱 查看方式
+
+- **飞书文档版**（手机推荐）：https://www.feishu.cn/docx/IXd9dmoekodWmBxrWTocGd1bnEb
+- **GitHub Pages版**（视觉效果）：https://Han8774.github.io/fmcg-ai-dashboard/
+
+## 📊 内容
+
+- 6个核心指标（市场规模、渗透率、预测准确率）
+- 6家企业案例（可口可乐、盒马、康师傅、伊利、百事、瑞幸）
+- 4大应用场景效率对比（陈列识别、感官分析、内容营销、智能工厂）
+- 4条关键洞察
+- GEO新战场数据
+
+## 🤖 生成方式
+
+由汉小刻（AI助手）从 Get笔记知识库自动提取数据，生成看板并部署。
+
+## 📅 更新时间
+
+2026年5月3日
